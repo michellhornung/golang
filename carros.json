@@ -1,0 +1,22 @@
+[
+  {
+    "id": "car_1764960757141107000",
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "ano": 2022,
+    "cor": "Prata",
+    "preco": 35000,
+    "pais_origem": "Japão",
+    "data_cadastro": "2025-12-05"
+  },
+  {
+    "id": "car_1764961086035551000",
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "ano": 2022,
+    "cor": "Prata",
+    "preco": 35000,
+    "pais_origem": "Japão",
+    "data_cadastro": "2025-12-05"
+  }
+]
